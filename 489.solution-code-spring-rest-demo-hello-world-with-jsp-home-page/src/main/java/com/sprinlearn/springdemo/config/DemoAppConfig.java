@@ -7,7 +7,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 @Configuration
 @EnableWebMvc
-@ComponentScan("com.luv2code.springdemo")
+@ComponentScan("com.springlearn.springdemo")
 public class DemoAppConfig implements WebMvcConfigurer {
 
 }
