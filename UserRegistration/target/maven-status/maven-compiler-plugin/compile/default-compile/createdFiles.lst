@@ -1,0 +1,4 @@
+com\lxisoft\UserRegistration\controller\UserRegistrarionResource.class
+com\lxisoft\UserRegistration\model\UserRegistration.class
+com\lxisoft\UserRegistration\UserRegistrationApplication.class
+com\lxisoft\UserRegistration\repository\UserRegistrationRepository.class
